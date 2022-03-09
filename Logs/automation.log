@@ -1,0 +1,153 @@
+2022-02-20 00:05:46,861 :INFO : root :*************Test_001_Login*********************
+2022-02-20 00:05:46,866 :INFO : root :*************Verifying_HomePageTitle*****************
+2022-02-20 00:05:54,969 :INFO : root :*************HomePageTitle test is passed*****************
+2022-02-20 00:06:11,862 :INFO : root :*************login Test is passed*****************
+2022-02-21 12:50:02,086 :INFO : root :*************Test_001_Login*****************
+2022-02-21 12:50:02,088 :INFO : root :*************Verifying_HomePageTitle*****************
+2022-02-21 12:50:07,634 :INFO : root :*************HomePageTitle test is passed*****************
+2022-02-21 12:50:09,559 :INFO : root :*************Verifying login Test*****************
+2022-02-21 12:50:30,273 :INFO : root :*************login Test is passed*****************
+2022-02-21 12:56:01,678 :INFO : root :*************Test_001_Login*****************
+2022-02-21 12:56:01,679 :INFO : root :*************Verifying_HomePageTitle*****************
+2022-02-21 12:56:03,252 :INFO : root :*************Verifying login Test*****************
+2022-02-21 12:56:11,177 :INFO : root :*************HomePageTitle test is passed*****************
+2022-02-21 12:56:31,625 :INFO : root :*************login Test is passed*****************
+2022-02-21 13:01:46,446 :INFO : Test_001_Login :*************Test_001_Login*****************
+****
+2022-02-21 13:01:46,446 :INFO : Test_001_Login :*************Verifying_HomePageTitle*****************
+2022-02-21 13:01:56,377 :INFO : Test_001_Login :*************HomePageTitle test is passed*****************
+2022-02-21 13:02:10,635 :INFO : Test_001_Login :*************login Test is passed*****************
+2022-02-23 15:49:06,303 :INFO : Test_002_DDT_Login :*************Test_002_DDT_Login*****************
+2022-02-23 15:49:06,344 :INFO : Test_002_DDT_Login :*************Verifying login DDT Test*****************
+2022-02-23 15:52:43,057 :INFO : Test_002_DDT_Login :*************Test_002_DDT_Login*****************
+2022-02-23 15:52:43,058 :INFO : Test_002_DDT_Login :*************Verifying login DDT Test*****************
+2022-02-23 15:53:05,203 :INFO : Test_002_DDT_Login :******Passed*****
+2022-02-23 15:53:13,357 :INFO : Test_002_DDT_Login :******Passed*****
+2022-02-23 15:53:19,464 :INFO : Test_002_DDT_Login :******Passed*****
+2022-02-23 15:53:25,626 :INFO : Test_002_DDT_Login :******Passed*****
+2022-02-23 15:53:25,626 :INFO : Test_002_DDT_Login :*********DDT test is passed......
+2022-02-23 15:53:25,798 :INFO : Test_002_DDT_Login :************End of Login DDT Test****************
+2022-02-23 15:53:25,798 :INFO : Test_002_DDT_Login :************Completed  Login DDT Test****************
+2022-02-28 14:47:58,881 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 14:48:10,500 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 14:48:10,501 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 14:53:05,894 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 14:53:19,592 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 14:53:19,593 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 14:53:25,462 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:05:54,539 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:06:08,249 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:06:08,250 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:06:18,106 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:08:43,729 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:08:57,310 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:08:57,310 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:09:08,653 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:10:32,788 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:10:46,122 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:10:46,123 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:10:55,867 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:14:17,817 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:14:29,908 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:14:29,909 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:14:38,464 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:16:45,014 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:16:58,276 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:16:58,276 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:17:07,418 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:19:36,954 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:19:48,433 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:19:48,433 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:19:58,422 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:21:41,310 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:21:53,820 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:21:53,821 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:22:02,240 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:22:11,171 :INFO : Test_003_AddCustomer :***************saving customer info***************
+2022-02-28 15:22:11,172 :INFO : Test_003_AddCustomer :*************Add customer validation started********
+2022-02-28 15:25:21,946 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:25:36,839 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:25:36,840 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:25:46,277 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:25:58,249 :INFO : Test_003_AddCustomer :***************saving customer info***************
+2022-02-28 15:25:58,250 :INFO : Test_003_AddCustomer :*************Add customer validation started********
+2022-02-28 15:30:20,638 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:30:43,477 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:30:43,479 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:30:53,856 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:31:06,758 :INFO : Test_003_AddCustomer :***************saving customer info***************
+2022-02-28 15:31:06,759 :INFO : Test_003_AddCustomer :*************Add customer validation started********
+2022-02-28 15:31:07,670 :INFO : Test_003_AddCustomer :*******Customer Added successfully**********
+2022-02-28 15:31:11,446 :INFO : Test_003_AddCustomer :*********Ending Add Customer test************
+2022-02-28 15:47:11,542 :INFO : Test_003_AddCustomer :***********entering_url**************
+2022-02-28 15:47:26,563 :INFO : Test_003_AddCustomer :*************Login successfull************
+2022-02-28 15:47:26,564 :INFO : Test_003_AddCustomer :***********Starting_Test_003_AddCustomer**************
+2022-02-28 15:47:35,235 :INFO : Test_003_AddCustomer :*********Providing customer info ******
+2022-02-28 15:47:47,983 :INFO : Test_003_AddCustomer :***************saving customer info***************
+2022-02-28 15:47:47,984 :INFO : Test_003_AddCustomer :*************Add customer validation started********
+2022-02-28 15:47:48,695 :INFO : Test_003_AddCustomer :*******Customer Added successfully**********
+2022-02-28 15:47:48,985 :INFO : Test_003_AddCustomer :*********Ending Add Customer test************
+2022-03-01 12:35:05,216 :INFO : Test_SearchCustomerByEmail :********Search Customer*********
+2022-03-01 12:35:17,717 :INFO : Test_SearchCustomerByEmail :*******Login successfull*********
+2022-03-01 12:35:22,466 :INFO : Test_SearchCustomerByEmail :*********starting search customer*************
+2022-03-01 12:38:08,861 :INFO : Test_SearchCustomerByEmail :********Search Customer*********
+2022-03-01 12:40:19,114 :INFO : Test_SearchCustomerByEmail :********Search Customer*********
+2022-03-01 12:40:38,660 :INFO : Test_SearchCustomerByEmail :*******Login successfull*********
+2022-03-01 12:40:42,400 :INFO : Test_SearchCustomerByEmail :*********starting search customer*************
+2022-03-01 13:58:02,504 :INFO : Test_SearchCustomerByEmail :********Search Customer*********
+2022-03-01 13:58:28,525 :INFO : Test_SearchCustomerByEmail :*******Login successfull*********
+2022-03-01 13:58:32,194 :INFO : Test_SearchCustomerByEmail :*********starting search customer*************
+2022-03-01 14:01:21,193 :INFO : Test_SearchCustomerByEmail :********Search Customer*********
+2022-03-01 14:01:35,668 :INFO : Test_SearchCustomerByEmail :*******Login successfull*********
+2022-03-01 14:01:38,744 :INFO : Test_SearchCustomerByEmail :*********starting search customer*************
+2022-03-01 14:04:41,409 :INFO : Test_SearchCustomerByEmail :********Search Customer*********
+2022-03-01 14:04:56,037 :INFO : Test_SearchCustomerByEmail :*******Login successfull*********
+2022-03-01 14:04:58,763 :INFO : Test_SearchCustomerByEmail :*********starting search customer*************
+2022-03-01 14:05:04,607 :INFO : Test_SearchCustomerByEmail :*********Search customer by Email finished************
+2022-03-01 14:06:24,024 :INFO : Test_SearchCustomerByEmail :********Search Customer*********
+2022-03-01 14:06:35,171 :INFO : Test_SearchCustomerByEmail :*******Login successfull*********
+2022-03-01 14:06:38,522 :INFO : Test_SearchCustomerByEmail :*********starting search customer*************
+2022-03-01 14:06:44,687 :INFO : Test_SearchCustomerByEmail :*********Search customer by Email finished************
+2022-03-01 14:32:40,525 :INFO : Test_SearchCustomerByName_005 :*********Test_SearchCustomerByName_005******************
+2022-03-01 14:32:56,268 :INFO : Test_SearchCustomerByName_005 :********Login successful************
+2022-03-01 14:32:58,434 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name started********
+2022-03-01 14:35:33,784 :INFO : Test_SearchCustomerByEmail_0004 :********Test_SearchCustomerByEmail_0004*********
+2022-03-01 14:35:46,659 :INFO : Test_SearchCustomerByEmail_0004 :*******Login successful*********
+2022-03-01 14:35:48,963 :INFO : Test_SearchCustomerByEmail_0004 :*********starting search customer*************
+2022-03-01 14:35:55,678 :INFO : Test_SearchCustomerByEmail_0004 :*********Search customer by Email finished************
+2022-03-01 14:36:33,481 :INFO : Test_SearchCustomerByName_005 :*********Test_SearchCustomerByName_005******************
+2022-03-01 14:36:42,770 :INFO : Test_SearchCustomerByName_005 :********Login successful************
+2022-03-01 14:36:45,467 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name started********
+2022-03-01 14:38:29,977 :INFO : Test_SearchCustomerByName_005 :*********Test_SearchCustomerByName_005******************
+2022-03-01 14:38:44,253 :INFO : Test_SearchCustomerByName_005 :********Login successful************
+2022-03-01 14:38:46,427 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name started********
+2022-03-01 14:42:06,836 :INFO : Test_SearchCustomerByName_005 :*********Test_SearchCustomerByName_005******************
+2022-03-01 14:42:22,364 :INFO : Test_SearchCustomerByName_005 :********Login successful************
+2022-03-01 14:42:25,167 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name started********
+2022-03-01 14:45:58,829 :INFO : Test_SearchCustomerByName_005 :*********Test_SearchCustomerByName_005******************
+2022-03-01 14:46:13,127 :INFO : Test_SearchCustomerByName_005 :********Login successful************
+2022-03-01 14:46:16,022 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name started********
+2022-03-01 14:48:38,143 :INFO : Test_SearchCustomerByName_005 :*********Test_SearchCustomerByName_005******************
+2022-03-01 14:48:51,393 :INFO : Test_SearchCustomerByName_005 :********Login successful************
+2022-03-01 14:48:54,119 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name started********
+2022-03-01 14:52:20,184 :INFO : Test_SearchCustomerByName_005 :*********Test_SearchCustomerByName_005******************
+2022-03-01 14:52:34,146 :INFO : Test_SearchCustomerByName_005 :********Login successful************
+2022-03-01 14:52:37,036 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name started********
+2022-03-01 14:55:43,827 :INFO : Test_SearchCustomerByName_005 :*********Test_SearchCustomerByName_005******************
+2022-03-01 14:55:56,146 :INFO : Test_SearchCustomerByName_005 :********Login successful************
+2022-03-01 14:55:58,943 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name started********
+2022-03-01 14:56:05,198 :INFO : Test_SearchCustomerByName_005 :**********Searching customer by Name finished************
+2022-03-01 15:34:18,481 :INFO : Test_SearchCustomerByName_005 :************* SearchCustomerByName_005 **********
+2022-03-01 15:34:31,678 :INFO : Test_SearchCustomerByName_005 :************* Login succesful **********
+2022-03-01 15:34:31,679 :INFO : Test_SearchCustomerByName_005 :******* Starting Search Customer By Name **********
+2022-03-01 15:34:36,820 :INFO : Test_SearchCustomerByName_005 :************* searching customer by Name **********
+2022-03-01 15:34:42,766 :INFO : Test_SearchCustomerByName_005 :***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-03-09 11:42:24,951 :INFO : Test_002_DDT_Login :*************Test_002_DDT_Login*****************
+2022-03-09 11:42:25,030 :INFO : Test_002_DDT_Login :*************Verifying login DDT Test*****************
+2022-03-09 11:42:49,042 :INFO : Test_002_DDT_Login :******Passed*****
+2022-03-09 11:42:57,085 :INFO : Test_002_DDT_Login :******Passed*****
+2022-03-09 11:43:03,247 :INFO : Test_002_DDT_Login :******Passed*****
+2022-03-09 11:43:09,426 :INFO : Test_002_DDT_Login :******Passed*****
+2022-03-09 11:43:09,434 :INFO : Test_002_DDT_Login :*********DDT test is passed......
+2022-03-09 11:43:09,608 :INFO : Test_002_DDT_Login :************End of Login DDT Test****************
+2022-03-09 11:43:09,608 :INFO : Test_002_DDT_Login :************Completed  Login DDT Test****************
